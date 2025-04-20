@@ -9,7 +9,7 @@ To use this component, include it as an [External component](https://esphome.io/
 
 ```yaml
 external_components:
-  - source: github://bendikwa/esphome-igrill@v1.2
+  - source: github://dansxmods/esphome-igrill@v1.2
 ```
 
 ## Device discovery
